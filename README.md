@@ -8,9 +8,8 @@ adds incremental forecasting power over daily stock returns.
   * NASDAQ daily prices (Kaggle).
 
 * **Key result**  
-  * Mean weekly IC = **+0.026**  
-  * Newey–West t = **3.4** (lag 3) → clears the +0.02 hurdle.
+  * Mean weekly IC = 
+  * Newey–West t = 
 
 * **Next steps**  
   * Sector-neutralise signals.  
-  * Deploy live with Deephaven + Papermill.
