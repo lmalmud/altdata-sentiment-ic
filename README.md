@@ -21,7 +21,7 @@ There was not evidence of statistical significance between next-day returns and 
 
 ![Sentiment Distribution](img/sentiment_distribution.png)
 
-~[Sentiment Score versus Next Day Returns](img/sentiment_vs_returns.png)
+![Sentiment Score versus Next Day Returns](img/sentiment_vs_returns.png)
 
 * **Next steps**  
   * Sector-neutralise signals.
