@@ -8,8 +8,8 @@ adds incremental forecasting power over daily stock returns.
   * NASDAQ daily prices (Kaggle).
 
 * **Key result**  
-  * Mean weekly IC = 
-  * Newey–West t = 
+  * Mean weekly IC = 0.0216
+  * Newey–West t = *in progress*
 
 * **Next steps**  
   * Sector-neutralise signals.  
